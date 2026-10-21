@@ -1,0 +1,78 @@
+AETHER-SLAM: PROPRIETARY "VIEW-ONLY" LICENSE
+Copyright (c) 2026 Sahaj Sinha. All rights reserved.
+
+Contact: sahajsinha2310@gmail.com
+
+================================================================================
+SUMMARY (non-binding)
+================================================================================
+You may LOOK at this source code. You may NOT run it, copy it, modify it,
+redistribute it, or use it for any purpose without the author's prior written
+permission. This is NOT open-source software.
+
+================================================================================
+TERMS AND CONDITIONS
+================================================================================
+
+1. DEFINITIONS
+   "Software" means the AETHER-SLAM source code, documentation, assets, models,
+   build scripts, and every other file in this repository.
+   "Author" means Sahaj Sinha, the sole copyright holder.
+   "You" means any individual or entity accessing the Software.
+
+2. GRANT (VIEW ONLY)
+   The Author grants You a limited, non-exclusive, non-transferable, revocable
+   right to VIEW and READ the Software's source code for personal reference and
+   evaluation of the Author's work only (for example, while assessing the
+   Author's portfolio).
+
+3. RESTRICTIONS
+   Except with the Author's prior, express, written permission, You may NOT:
+     (a) execute, run, deploy, host, or otherwise operate the Software;
+     (b) copy, reproduce, download, or store the Software, in whole or in part,
+         except for the transient copy your browser/Git client makes solely to
+         display the source to You;
+     (c) modify, adapt, translate, fork, or create derivative works of the
+         Software;
+     (d) redistribute, publish, sublicense, sell, rent, lease, or otherwise
+         make the Software available to any third party;
+     (e) use the Software, or any portion, concept, or technique uniquely
+         expressed in it, for any commercial purpose;
+     (f) remove, obscure, or alter any copyright, attribution, or this license
+         notice.
+
+4. NO CONTRIBUTIONS
+   This is a single-author project. Unsolicited contributions, pull requests,
+   or derivative submissions are not accepted and do not transfer any rights.
+
+5. OWNERSHIP
+   The Software is licensed, not sold. The Author retains all right, title, and
+   interest in and to the Software, including all intellectual property rights.
+   No rights are granted except those expressly stated herein.
+
+6. THIRD-PARTY COMPONENTS
+   The Software depends on third-party libraries and models (e.g. PyTorch,
+   FastAPI, React, Three.js, Open3D, Ultralytics YOLO, MiDaS) that are governed
+   by their own respective licenses. This license applies only to the original
+   work authored by the Author and does not override third-party terms.
+
+7. TERMINATION
+   This license terminates automatically if You breach any term. Upon
+   termination You must cease all access to and destroy any copies of the
+   Software.
+
+8. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+   IN THE SOFTWARE.
+
+10. PERMISSIONS
+    To request any right beyond viewing (including running or evaluating the
+    Software locally), contact the Author at: sahajsinha2310@gmail.com
+================================================================================

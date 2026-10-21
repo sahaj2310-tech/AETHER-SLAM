@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Models / weights
+*.pt
+*.onnx
+*.bin
+
+# Runtime output (sessions, exported meshes, scene graph)
+backend/data/
+
+# Benchmark data, runs and aggregated results (kept outside the public repo)
+data/
+runs/
+results/
+
+# Manuscript sources (a public copy would count as a preprint)
+paper/
+
+# Node / frontend build
+node_modules/
+frontend/dist/
+backend/static/
+*.log
+
+# IDE / OS / tooling
+.playwright-mcp/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg

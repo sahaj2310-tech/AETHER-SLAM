@@ -1,0 +1,40 @@
+# Keep the Docker build context small and reproducible.
+# The image builds the frontend and venv from source inside the container.
+
+# Python
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Node / frontend build (rebuilt in the image)
+frontend/node_modules/
+frontend/dist/
+backend/static/
+
+# Runtime output
+backend/data/
+
+# Material that is not part of the repository
+paper/
+results/
+runs/
+data/
+.playwright-mcp/
+
+# Git / IDE / OS
+.git/
+.gitignore
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Docs aren't needed at runtime
+docs/
+DOCUMENTATION.md
+*.md
